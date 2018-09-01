@@ -1,0 +1,86 @@
+#main{
+  padding: 150px;
+  background-image: url(image/abc.png);
+  background-repeat: no-repeat;
+	
+}	
+.center{
+	 position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-family: 'Merriweather', serif;
+    /*background-image: url(image/abc.png);*/
+  }
+.col-sm-8 {
+  text-align: center;
+  align-items: center;
+
+}
+
+.left {
+  	position: absolute;
+  	top: 30%;
+    left: 20px;
+  	color: white;
+  	font-family: 'Merriweather', serif;
+  } 
+
+p {
+ 	font-family: 'PT Sans', sans-serif;
+
+}
+div > p {
+  font-family: 'Libre Franklin', sans-serif;
+  font-size: 20px;
+}
+#blue{
+	width: 320px;
+	height: 500px;
+  margin-left: 20px;
+}
+button{
+  background-color: black;
+  color: white;
+  font-family: 'Merriweather', serif;
+  padding: 16px;
+}
+
+h3{
+  font-family: 'PT Sans', sans-serif;
+
+}
+.btn btn-success: hover {
+   display: center;
+   cursor: pointer;
+   padding: 16px;
+   border-radius: 5px;
+}
+footer {
+  background-color: black;
+  text-align: center;
+  color: white;
+  display: inline-block;
+  padding: 16px;
+  font-size: 24px;
+}
+.name{
+  font-size: 50px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  }  
+
+.name span {
+   color:  #28a745;
+
+}
+
+
+
+
+
+
+
+
+
